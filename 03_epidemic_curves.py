@@ -1,5 +1,5 @@
 # Doing epidemic curve of all, local and non-local cases infection, 
-# years 2007 to 2021
+# years 2018 to 2021
 # Code developed by Denise Cammarota
 
 import numpy as np
